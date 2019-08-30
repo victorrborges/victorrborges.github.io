@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//victorrborges.github.io/victorrborges.github.io/static/css/main.0e1e2934.chunk.css",
-    "main.js": "//victorrborges.github.io/victorrborges.github.io/static/js/main.b6902a3c.chunk.js",
-    "main.js.map": "//victorrborges.github.io/victorrborges.github.io/static/js/main.b6902a3c.chunk.js.map",
-    "runtime~main.js": "//victorrborges.github.io/victorrborges.github.io/static/js/runtime~main.3ef150fc.js",
-    "runtime~main.js.map": "//victorrborges.github.io/victorrborges.github.io/static/js/runtime~main.3ef150fc.js.map",
-    "static/js/2.4b1ba94f.chunk.js": "//victorrborges.github.io/victorrborges.github.io/static/js/2.4b1ba94f.chunk.js",
-    "static/js/2.4b1ba94f.chunk.js.map": "//victorrborges.github.io/victorrborges.github.io/static/js/2.4b1ba94f.chunk.js.map",
-    "index.html": "//victorrborges.github.io/victorrborges.github.io/index.html",
-    "precache-manifest.34e8e097cf79cfffd0e6a17a83c36963.js": "//victorrborges.github.io/victorrborges.github.io/precache-manifest.34e8e097cf79cfffd0e6a17a83c36963.js",
-    "service-worker.js": "//victorrborges.github.io/victorrborges.github.io/service-worker.js",
-    "static/css/main.0e1e2934.chunk.css.map": "//victorrborges.github.io/victorrborges.github.io/static/css/main.0e1e2934.chunk.css.map",
-    "static/media/portfolio.png": "//victorrborges.github.io/victorrborges.github.io/static/media/portfolio.f66ab859.png"
+    "main.css": "/victorrborges.github.io/static/css/main.0e1e2934.chunk.css",
+    "main.js": "/victorrborges.github.io/static/js/main.dd2e8f69.chunk.js",
+    "main.js.map": "/victorrborges.github.io/static/js/main.dd2e8f69.chunk.js.map",
+    "runtime~main.js": "/victorrborges.github.io/static/js/runtime~main.8a1264d8.js",
+    "runtime~main.js.map": "/victorrborges.github.io/static/js/runtime~main.8a1264d8.js.map",
+    "static/js/2.4b1ba94f.chunk.js": "/victorrborges.github.io/static/js/2.4b1ba94f.chunk.js",
+    "static/js/2.4b1ba94f.chunk.js.map": "/victorrborges.github.io/static/js/2.4b1ba94f.chunk.js.map",
+    "index.html": "/victorrborges.github.io/index.html",
+    "precache-manifest.7ecdd9491d889f1cd3f824557eb7ed36.js": "/victorrborges.github.io/precache-manifest.7ecdd9491d889f1cd3f824557eb7ed36.js",
+    "service-worker.js": "/victorrborges.github.io/service-worker.js",
+    "static/css/main.0e1e2934.chunk.css.map": "/victorrborges.github.io/static/css/main.0e1e2934.chunk.css.map",
+    "static/media/portfolio.png": "/victorrborges.github.io/static/media/portfolio.f66ab859.png"
   }
 }
